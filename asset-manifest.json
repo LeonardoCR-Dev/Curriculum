@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github/io/Curriculum/static/css/main.ca31fb96.chunk.css",
-    "main.js": "/github/io/Curriculum/static/js/main.de912992.chunk.js",
-    "main.js.map": "/github/io/Curriculum/static/js/main.de912992.chunk.js.map",
+    "main.js": "/github/io/Curriculum/static/js/main.c3e4248e.chunk.js",
+    "main.js.map": "/github/io/Curriculum/static/js/main.c3e4248e.chunk.js.map",
     "runtime-main.js": "/github/io/Curriculum/static/js/runtime-main.d97d72bd.js",
     "runtime-main.js.map": "/github/io/Curriculum/static/js/runtime-main.d97d72bd.js.map",
     "static/js/2.b6906019.chunk.js": "/github/io/Curriculum/static/js/2.b6906019.chunk.js",
     "static/js/2.b6906019.chunk.js.map": "/github/io/Curriculum/static/js/2.b6906019.chunk.js.map",
     "index.html": "/github/io/Curriculum/index.html",
-    "precache-manifest.19c1858dea62371843f296b25045eae0.js": "/github/io/Curriculum/precache-manifest.19c1858dea62371843f296b25045eae0.js",
+    "precache-manifest.2d5f2009be003f689395d315256bd6f6.js": "/github/io/Curriculum/precache-manifest.2d5f2009be003f689395d315256bd6f6.js",
     "service-worker.js": "/github/io/Curriculum/service-worker.js",
     "static/css/main.ca31fb96.chunk.css.map": "/github/io/Curriculum/static/css/main.ca31fb96.chunk.css.map",
     "static/js/2.b6906019.chunk.js.LICENSE.txt": "/github/io/Curriculum/static/js/2.b6906019.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d97d72bd.js",
     "static/js/2.b6906019.chunk.js",
     "static/css/main.ca31fb96.chunk.css",
-    "static/js/main.de912992.chunk.js"
+    "static/js/main.c3e4248e.chunk.js"
   ]
 }
